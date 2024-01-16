@@ -26,6 +26,4 @@
 - [**Tailwind CSS**](https://tailwindcss.com/) - A low-level utility-first CSS framework for building modern designs.
 - [**TMDB**](https://www.themoviedb.org/) - The Movie Database, a comprehensive database of movies and TV shows.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
